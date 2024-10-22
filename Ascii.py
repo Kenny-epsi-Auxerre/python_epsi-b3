@@ -7,5 +7,4 @@ def Ascii (liste):
         b[i]=chr(liste[i])
         
     return ''.join(b)
-
 print(Ascii(a))
